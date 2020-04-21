@@ -1,3 +1,4 @@
-7.5.2019
+﻿7.5.2019
 Tekijä: Mia Kauppila
-Tämä on ensimmäinen lisäys yhteiseen GIT-repoon. 
+Tämä on ensimmäinen lisäys yhteiseen GIT-repoon.
+21.4.2020 :) 
